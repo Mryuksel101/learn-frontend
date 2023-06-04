@@ -1,0 +1,19 @@
+{
+    "files.exclude": {
+        "**/.vscode": true,
+        "**/node_modules": true,
+        // Diğer dosya veya klasörlerin gizlenmesi için gerekiyorsa ekleyin
+    },
+    "files.associations": {
+        "*.html": "html",
+        "*.css": "css"
+    },
+    "emmet.syntaxProfiles": {
+        "html": "html",
+        "css": "css"
+    },
+    "emmet.includeLanguages": {
+        "html": "html",
+        "css": "css"
+    }
+}
