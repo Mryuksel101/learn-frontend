@@ -1,27 +1,19 @@
 body{
-    background-color: white;
+    text-align: center;
+    margin: 0px;
+}
+span{
+    text-decoration: underline;
 }
 .top-container{
-    background-color: red;
-    width: 100px;
-    height: 100px;
-    position: relative;
-    display: inline-block;
-    left: 200;
+    background-color: #e4f9f5;
 }
-.middle-container{
-    background-color: blue;
-    width: 100px;
-    height: 100px;
-    position: relative;
-    left: 90;
-    display: inline-block;
+.firstCloud{
+    margin-top: 50px;
+    margin-left: 40%;
 }
-.bottom-container{
-    background-color: yellow;
-    width: 100px;
-    height: 100px;
-    position: relative;
-    left: 100;
-    display: inline-block;
+.secondCloud{
+    left: 25%;
+    position: absolute;
+    
 }
